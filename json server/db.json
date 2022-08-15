@@ -1,0 +1,42 @@
+{
+    "books" : [
+        {
+            "id" : 1,
+            "name" : "livro 1",
+            "price" : 30,
+            "quantity" : 2,
+            "category" : "action",
+            "img" : "./assets/livro1.jpg"
+        },
+        {
+            "id" : 2,
+            "name" : "livro 2",
+            "price" : 20,
+            "quantity" : 2,
+            "category" : "action"
+        },
+        {
+            "id" : 3,
+            "name" : "livro 3",
+            "price" : 50,
+            "quantity" : 6,
+            "category" : "action"
+        },
+        {
+            "id" : 4,
+            "name" : "livro 4",
+            "price" : 30,
+            "quantity" : 2,
+            "category" : "action"
+        },
+        {
+            "id" : 5,
+            "name" : "livro 5",
+            "price" : 40,
+            "quantity" : 7,
+            "category" : "action"
+        }
+    ]
+
+    
+}
